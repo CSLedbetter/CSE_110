@@ -1,0 +1,1 @@
+Many fund management companies are switching from manual stock trading done by humans to automatic stock trading initiated by computers. You've been tasked to write a simple automatic stock trader function that determines whether to buy, sell, or do nothing for a particular fund. It should follow the old saying "Buy low, sell high!". 
